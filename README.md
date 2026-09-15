@@ -35,11 +35,6 @@ I enjoy connecting algorithms with hands-on engineering, especially bringing rob
 - **Hands-on experience / 工程实践** — 从 PPO 策略训练、MuJoCo 验证到 ROS2 / C++ 真机部署。<br>From PPO policy training and MuJoCo validation to ROS2 / C++ deployment on real robots.
 - **Beyond locomotion / 更多探索** — 多模态情感交互、自主导航与机械结构设计。<br>Multimodal affective interaction, autonomous navigation, and mechanical design.
 
-## Experience highlights / 经历亮点
-
-- **G1 人形机器人运动控制 / G1 humanoid locomotion**<br>担任人形机器人运动会项目核心成员、队长，参与 29-DOF 全身运动策略开发、PPO + CLF 训练、Sim2Sim 验证与实机联调。<br>Core team member and team captain, contributing to 29-DOF whole-body policies, PPO + CLF training, Sim2Sim validation, and hardware integration.
-- **多模态情感交互 / Multimodal affective interaction**<br>参与儿童情绪智能体与“予怀”系统核心开发，负责代码实现、模块集成与联调；项目获“青创北京”2026“挑战杯”专项赛三等奖。<br>Core development and integration for a child-focused emotion agent and the “Yuhuai” system; the project received third prize in the 2026 “Qingchuang Beijing” Challenge Cup special competition.
-- **机器人导航与团队协作 / Robot navigation & teamwork**<br>担任 2026 睿抗机器人开发者大赛（具身智伴）队长，开展 SLAM、定位、路径规划与避障联调，获北京赛区三等奖。<br>Team captain for the 2026 RAICOM embodied-companion event, working on SLAM, localization, planning, and obstacle avoidance; awarded third prize in the Beijing division.
 
 ## Toolkit / 技术工具
 
@@ -51,21 +46,7 @@ I enjoy connecting algorithms with hands-on engineering, especially bringing rob
 | Simulation / 仿真 | Isaac Sim · MuJoCo · Gazebo · CoppeliaSim |
 | Mechanical design / 机械设计 | SolidWorks · AutoCAD · Adams · Factory I/O |
 
-## Selected projects / 精选项目
 
-| Project | What it explores |
-| :--- | :--- |
-| **[G1 Running](https://github.com/C1801SYQ/g1_running)**<br>`Robotics` · `PPO` · `MuJoCo` | G1 29 自由度全身跑步策略训练与部署。<br>Training and deployment of running policies for a 29-DOF G1 humanoid.<br><sub>Adapted from robot_rl and rl_sar; see repository credits.</sub> |
-| **[Highway Lane Change](https://github.com/C1801SYQ/highway-lane-change)**<br>`DQN` · `PPO` · `Decision Making` | 高速公路自主变道：算法对比、奖励塑形与分布外泛化测试。<br>Autonomous lane-change decisions with reward shaping and out-of-distribution evaluation. |
-| **[SmartLearn AI](https://github.com/C1801SYQ/smartlearn-ai)**<br>`TypeScript` · `Next.js` · `Learning Tools` | 集学习计划、专注计时、测验与学习分析于一体的应用。<br>A learning application combining study planning, focus sessions, quizzes, and analytics. |
-| **[SoulCompanion AI · 小予](https://github.com/C1801SYQ/SoulCompanion-AI)**<br>`Python` · `Multimodal` · `Human–Robot Interaction` | 面向 ASD 儿童陪伴场景的多模态情绪交互项目。<br>A multimodal emotional-interaction project exploring companionship for children with ASD. |
-
-## Beyond the main projects / 更多探索
-
-**[Delta Game](https://github.com/C1801SYQ/delta-game)** — 用 Pygame 构建的 2D 地牢探索游戏。<br>
-A 2D dungeon exploration game built with Pygame.
-
----
 
 <div align="center">
 
