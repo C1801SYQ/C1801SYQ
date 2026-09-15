@@ -18,9 +18,17 @@ Building, experimenting, and learning through projects.
 
 ## About me / 关于我
 
-你好，我是**何鑫渝（Xinyu He）**，北京邮电大学机器人工程专业本科生（2024 级）。我关注**人形机器人运动控制、具身智能与强化学习**，希望通过仿真训练、策略部署与实机调试，让机器人在真实环境中更稳定地运动与交互。
+### 中文介绍
 
-Hi! I'm **Xinyu He**, an undergraduate studying **Robotics Engineering at Beijing University of Posts and Telecommunications (BUPT)**, enrolled in 2024. My interests include **humanoid locomotion, embodied intelligence, and reinforcement learning**. I explore how simulation, policy deployment, and hardware testing can help robots move and interact more reliably in the real world.
+你好，我是**何鑫渝**，北京邮电大学机器人工程专业本科生。我的兴趣集中在人形机器人运动控制、具身智能与强化学习，参与过 G1 人形机器人全身运动策略开发、仿真验证与实机部署。
+
+我喜欢将算法与工程实践结合，探索从仿真到真实机器人的落地过程，也关注自主导航与多模态情感交互。希望通过持续学习和项目实践，让机器人更稳定地运动、更自然地与人交互。
+
+### English Introduction
+
+Hi, I'm **Xinyu He**, an undergraduate studying **Robotics Engineering at Beijing University of Posts and Telecommunications (BUPT)**. My interests lie in humanoid locomotion, embodied intelligence, and reinforcement learning. I've contributed to whole-body motion policy development, simulation validation, and real-world deployment for the G1 humanoid robot.
+
+I enjoy connecting algorithms with hands-on engineering, especially bringing robot policies from simulation to the real world. I also explore autonomous navigation and multimodal affective interaction, with the aim of helping robots move more reliably and interact more naturally with people.
 
 - **Education / 教育背景** — 北京邮电大学 · 机器人工程本科 / BUPT · Undergraduate in Robotics Engineering
 - **Research interests / 研究兴趣** — Humanoid locomotion · Reinforcement learning · Sim2Real · Robot control
